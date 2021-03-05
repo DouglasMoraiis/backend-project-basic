@@ -17,7 +17,7 @@ Esse projeto é um trabalho da disciplina de desenvolvimento web no qual foi des
 
 *Jander Douglas Morais - 411571* 
 
-*Wesley Santos Sousa* - 412552*
+*Wesley Santos Sousa - 412552*
 
 # Professor
 Ms. Rodrigo Valença Cavalcante Frade
