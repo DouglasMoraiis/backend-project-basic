@@ -8,7 +8,7 @@ Esse projeto é um trabalho da disciplina de desenvolvimento web no qual foi des
 
 + **Require-dir**: Reduz a repetiçao de cod com diretórios;
 
-+ **Yup**: Usado para validação de schemas
++ **Yup**: Usado para validação de schemas;
 
 + **Nodemon**: Usado somente monitorar os scripts durante o desenvolvimento.
 
